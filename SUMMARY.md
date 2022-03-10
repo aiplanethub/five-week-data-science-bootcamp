@@ -42,4 +42,7 @@
     * [Changing Plot Size](day-5-diving-deep-into-matplotlib/module-1-pyplot-formatting/changing-plot-size.md)
     * [Multiple Plots](day-5-diving-deep-into-matplotlib/module-1-pyplot-formatting/multiple-plots.md)
   * [Practice Quiz](day-5-diving-deep-into-matplotlib/practice-quiz.md)
-* [Day 6:](day-6.md)
+* [Day 6: Exploratory Data Analysis & Data Preprocessing](day-6-exploratory-data-analysis-and-data-preprocessing.md)
+* [Day 7: Linear Algebra & Basic Statistics](day-7-linear-algebra-and-basic-statistics/README.md)
+  * [Linear Algebra](day-7-linear-algebra-and-basic-statistics/linear-algebra.md)
+  * [Statistics](day-7-linear-algebra-and-basic-statistics/statistics.md)
