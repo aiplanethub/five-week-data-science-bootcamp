@@ -21,7 +21,7 @@
 
 * **Selecting data based on its numerical position. Used operator - iloc**
 
-![](<../../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 * **Selecting data based on its numerical position. Used operator - iloc**
 
@@ -30,12 +30,12 @@
 * **Selecting data based on its numerical position. Used operator - iloc**
 * You can also pass **list of indexes**
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 * Selecting data based on its numerical position. Used operator - **iloc**
 * You can also pass **negative indexes**
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9).png>)
 
 ## Label Based Selection
 
@@ -48,4 +48,4 @@
 * We will learn about its implementation on a dataset soon.
 * Selecting data from a dataframe using column and row names/index. Used operator - loc
 
-![](<../../.gitbook/assets/Screen Shot 2021-11-03 at 8.22.02 PM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-11-03 at 8.22.02 PM.png>)

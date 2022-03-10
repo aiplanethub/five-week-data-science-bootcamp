@@ -12,7 +12,7 @@
 
 * Let's rename all the column names in our dataframe which contains spaces in it. Also we will rename the column 'race/ethnicity' to 'race'.
 
-![](<../../.gitbook/assets/Screen Shot 2021-09-25 at 3.48.22 PM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-09-25 at 3.48.22 PM.png>)
 
 * We can get the list of all the columns using an attribute columns.
 
@@ -22,6 +22,6 @@
 
 * We can also rename the indexes of the dataframe using the rename() function as shown in the image below.
 
-![](<../../.gitbook/assets/Screen Shot 2021-09-25 at 5.38.50 PM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-09-25 at 5.38.50 PM.png>)
 
-![](<../../.gitbook/assets/Screen Shot 2021-09-25 at 5.39.30 PM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-09-25 at 5.39.30 PM.png>)

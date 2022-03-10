@@ -16,7 +16,7 @@
 
 * **df.isna() or df.isnull()** returns the dataframe with boolean values indicating missing values.
 
-![](<../.gitbook/assets/Screen Shot 2021-09-25 at 5.45.32 PM.png>)
+![](<.gitbook/assets/Screen Shot 2021-09-25 at 5.45.32 PM.png>)
 
 * We can get column wise count of all the missing values using the aggregation function **sum()**
 
@@ -40,7 +40,7 @@
 
 * We can pass 'inplace' parameter as True in fillna() method. It will make the changes in the original dataframe.
 
-![](<../.gitbook/assets/Screen Shot 2021-09-25 at 5.48.32 PM.png>)
+![](<.gitbook/assets/Screen Shot 2021-09-25 at 5.48.32 PM.png>)
 
 * There is still a missing value in 'Marks%' column. Let's say we want to fill the missing value in this column with the mean of the marks scored by other people.
 
