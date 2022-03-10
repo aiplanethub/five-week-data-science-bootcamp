@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
+* [Introduction to Data Science and its applications by Admond Lee](introduction-to-data-science-and-its-applications-by-admond-lee.md)
 * [Day 1: Introduction to Pandas](day-1-introduction-to-pandas/README.md)
   * [Module 1: Introduction to Pandas](module-1-introduction-to-pandas/README.md)
     * [Data Analysis - An Analogy](module-1-introduction-to-pandas/data-analysis-an-analogy.md)
