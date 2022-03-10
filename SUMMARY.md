@@ -28,7 +28,6 @@
     * [Renaming](module-6-sorting-and-renaming/renaming.md)
     * [Practice Quiz](day-2-and-3-diving-deep-into-pandas/module-6-sorting-and-renaming/practice-quiz.md)
   * [Module 7: Missing Data](module-7-missing-data.md)
-* [Page 1](page-1.md)
 * [Day 4: Introduction to Data Visualization](day-4-introduction-to-data-visualization/README.md)
   * [Module 1: What, Why and How of Data Visualisation](day-4-introduction-to-data-visualization/module-1-what-why-and-how-of-data-visualisation.md)
   * [Module 2: Matplotlib](day-4-introduction-to-data-visualization/module-2-matplotlib/README.md)
