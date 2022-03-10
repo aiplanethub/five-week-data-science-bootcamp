@@ -41,3 +41,4 @@
     * [Formatting The Plots](day-5-diving-deep-into-matplotlib/module-1-pyplot-formatting/formatting-the-plots.md)
     * [Changing Plot Size](day-5-diving-deep-into-matplotlib/module-1-pyplot-formatting/changing-plot-size.md)
     * [Multiple Plots](day-5-diving-deep-into-matplotlib/module-1-pyplot-formatting/multiple-plots.md)
+  * [Practice Quiz](day-5-diving-deep-into-matplotlib/practice-quiz.md)
