@@ -6,9 +6,9 @@ Welcome to 5-Week Data Science Bootcamp :)
 
 In this bootcamp, there will be:
 
-* 7 learning modules
-* 1 graded quiz assignment
-* 1 graded final assignment
+* 5 weeks of learning content
+* 2 graded quiz assignments
+* 1 graded final assignment on real-world dataset
 
 ### Learning Modules:
 
