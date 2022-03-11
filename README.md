@@ -7,6 +7,7 @@ Welcome to 5-Week Data Science Bootcamp :)
 In this bootcamp, there will be:
 
 * 5 weeks of learning content
+* Day-wise learning modules:  We've segregated the content day wise for your convenience so that you can spend 1-2 hrs a day to learn a topic.  However, if you cannot do it day-wise, we recommend you to plan your learning hours twice every week with a time commitment of 3-4 hrs per session.
 * 2 graded quiz assignments
 * 1 graded final assignment on real-world dataset
 
