@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
+* [How to utilize DPhi Bootcamps?](how-to-utilize-dphi-bootcamps.md)
 * [Introduction to Data Science and its applications by Admond Lee](introduction-to-data-science-and-its-applications-by-admond-lee.md)
 * [Week 0:  For Absolute Beginners (Optional)](week-0-for-absolute-beginners-optional.md)
 * [Week 1](week-1.md)
