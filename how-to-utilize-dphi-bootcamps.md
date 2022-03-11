@@ -1,6 +1,6 @@
 # How to utilize DPhi Bootcamps?
 
-Community learning and open education are core to the heart of DPhi. The essentials ingredients of building a community led learning purely comes from the people who are associated with the community and how they shape.&#x20;
+Community learning and open education are core to the heart at DPhi. The essentials ingredients of building a community led learning purely comes from the people who are associated with the community and how they shape. And, yes, here we are referring to YOU and your fellow learners in the community.
 
 While we can help you to a significant extent, it is you who make the community a better place to learn and identify a better version of yourself to make most of it.
 
