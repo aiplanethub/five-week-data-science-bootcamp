@@ -6,14 +6,14 @@ Welcome to 5-Week Data Science Bootcamp :)
 
 In this bootcamp, there will be:
 
-* 5 Weeks of Learning Content - released every Friday
+* 5 Weeks of Learning Content - release every Friday ([detailed schedule here](https://docs.google.com/document/d/1X2DWGL3Y9N\_i9tmF5keWZbdiIroEeaG2IUogxq\_FJyk/edit))
 * 2 Graded Quiz Assignments
 * 1 Graded Hands-on Assignment on Real-World Dataset
 
 ### Learning Modules:
 
-* Learning modules will be released weekly in phases starting from 11th March, 6:00 PM CET/ 10:30 PM IST.
-* Day-Wise Learning Modules:  We've segregated the resources day wise for your convenience so that you can spend 1-2 hrs a day to learn a topic. &#x20;
+* Learning modules will be released every Friday, starting from 11th March, 6:00 PM CET/ 10:30 PM IST.
+* Day-Wise Learning Modules:  We've segregated them day wise for your convenience so that you can spend 1-2 hrs a day to learn a topic.&#x20;
 * However, if you cannot do it day-wise, we recommend you to plan your learning hours twice every week with a time commitment of 3-4 hrs per session.
 * Please keep checking this space for regular learning module additions we make.
 * To accommodate learners from across the globe, we are putting the learning modules in offline format instead of having live sessions. This will allow you to learn at your own time.
