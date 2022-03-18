@@ -54,6 +54,7 @@
 * [Day 7: Linear Algebra & Basic Statistics](day-7-linear-algebra-and-basic-statistics/README.md)
   * [Linear Algebra](day-7-linear-algebra-and-basic-statistics/linear-algebra.md)
   * [Statistics](day-7-linear-algebra-and-basic-statistics/statistics.md)
+* [Graded Quiz 1](graded-quiz-1.md)
 * [Week 2](week-2.md)
 * [Week 3](week-3.md)
 * [Week 4](week-4.md)
