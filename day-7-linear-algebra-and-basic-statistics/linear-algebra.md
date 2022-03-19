@@ -87,5 +87,8 @@ x + y + z = 1 ---------- (1)
 x + 2y = 100 ---------- (2)
 
 * The above two linear equations can be represented in the matrix form as:
+
+![image](https://user-images.githubusercontent.com/51357266/158958132-9114ae70-45cc-4ace-af0f-75f6d6efe4a1.png)
+
 * We can get the above two linear equations from the shown matrix equation just by multiplying the two matrices on left hand side and equating the corresponding value to right hand side.
 * **Here is nice resource on Matrices for further reading:** [https://www.statisticshowto.com/matrices-and-matrix-algebra/](https://www.statisticshowto.com/matrices-and-matrix-algebra/)
