@@ -15,16 +15,14 @@
 
 ### Distribution
 
-* Let’s take the heights dataset consisting of student IDs and heights: [https://bit.ly/Heights\_Data](https://bit.ly/Heights\_Data)&#x20;
-* The most convenient way to take a quick look at a distribution in seaborn is the distplot() function. On plotting a distplot on this dataset, we’ll observe a bell shaped curved like this:
+* Let’s take the heights dataset consisting of student IDs and heights: [Height Dataset Link](https://docs.google.com/spreadsheets/d/12C585fc6rZu9c-GbrPIZLKo1nB1ZjSAGuiaR9fxibSY/edit?usp=sharing)
+* The most convenient way to take a quick look at a distribution in seaborn is the histplot() and distplot() function. On plotting a distplot on this dataset, we’ll observe a bell shaped curved like this:
 
-&#x20;                      &#x20;
-
-![](https://lh6.googleusercontent.com/jtyG1w3AP5tUrDwbASZDC0JlWqkjClsbhzGMRtMaEBXihiRyOZI9E4cCV7S1FeL29FP3t9TzjHO82\_khGO6I5yKdG8BOvF42PbhVabTggd8TkgABAd1fOZmNkJaBc9sl-XeQp80heTI)
+![](<.gitbook/assets/image (12).png>)
 
 * Probability distributions are usually (but not solely) represented in charts whose abscissa axis ( x axis) represents the possible values of the variable and whose ordinal axis ( y axis) represents the probability of occurrence (probability density).
 
-![](https://lh4.googleusercontent.com/W0rb9xh15ItGdPMJFUzxHsR5xW6zOH3LD7lWdx7ZnnAm\_-0mQWbhpj0IiR6LQa1iHL2UoaV8yfHwCYAe8jk6amEXA\_h\_97n7P7Yry-z5WMvLkdWN3bKFufKdX4R8CwtOBxEZjBsO1Nw)
+![](<.gitbook/assets/image (11).png>)
 
 * Most statistical models rely on a normal distribution, a distribution that is symmetric and has a characteristic bell shape.
 

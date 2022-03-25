@@ -21,7 +21,7 @@
 
 * **Selecting data based on its numerical position. Used operator - iloc**
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 * **Selecting data based on its numerical position. Used operator - iloc**
 
@@ -35,7 +35,7 @@
 * Selecting data based on its numerical position. Used operator - **iloc**
 * You can also pass **negative indexes**
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 ## Label Based Selection
 

@@ -198,6 +198,6 @@ Note: Some of the feature/variable description is not given as
 
 ### Notebook Link
 
-* [https://dphi.tech/notebooks/856/manish\_kc\_06/day-4-](https://dphi.tech/notebooks/856/manish\_kc\_06/day-4-notebooks-handling-imbalanced-classes) [notebooks-handling-imbalanced-classes](https://dphi.tech/notebooks/856/manish\_kc\_06/day-4-notebooks-handling-imbalanced-classes)
+* [https://dphi.tech/notebooks/2646](https://dphi.tech/notebooks/2646)&#x20;
 * **!! The dataset takes a lot of time to upload on colab. You might prefer using Jupyter Notebook for this one.**
 
