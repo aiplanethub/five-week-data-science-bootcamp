@@ -16,7 +16,7 @@
 ### Distribution
 
 * Let’s take the heights dataset consisting of student IDs and heights: [https://bit.ly/Heights\_Data](https://bit.ly/Heights\_Data)&#x20;
-* The most convenient way to take a quick look at a distribution in seaborn is the distplot() function. On plotting a distplot on this dataset, we’ll observe a bell shaped curved like this:
+* The most convenient way to take a quick look at a distribution in seaborn is the displot() function. On plotting a distplot on this dataset, we’ll observe a bell shaped curved like this:
 
 &#x20;                      &#x20;
 
