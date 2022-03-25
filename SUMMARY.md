@@ -62,7 +62,7 @@
   * [Module 1: Introduction to Machine Learning](day-4-and-5-the-abc-of-machine-learning/module-1-introduction-to-machine-learning.md)
   * [Recorded Session: Data Pre-processing - Handling missing values and dealing with class imbalance](day-4-and-5-the-abc-of-machine-learning/recorded-session-data-pre-processing-handling-missing-values-and-dealing-with-class-imbalance.md)
   * [Notebook: Data Pre-processing and Imbalanced Class](day-4-and-5-the-abc-of-machine-learning/notebook-data-pre-processing-and-imbalanced-class.md)
-* [Week 3 Begins](week-3.md)
+* [Week 3 Begins](week-3-begins.md)
 * [Graded Quiz 2](graded-quiz-2.md)
 * [Day 1: Building your First ML Model](day-1-building-your-first-ml-model/README.md)
   * [Recorded Session](day-1-building-your-first-ml-model/recorded-session.md)
