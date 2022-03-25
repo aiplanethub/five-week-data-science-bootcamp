@@ -8,4 +8,4 @@
 * Some questions contain multiple correct answers. Only if you select all the correct answers, full marks will be awarded.
 * The date and time shown before starting the quiz are according to your time zone.
 * **Link:** [https://app.skillspace.ai/candidate/assessment/k6usj5lnkpc](https://app.skillspace.ai/candidate/assessment/k6usj5lnkpc)
-* **Submission deadline:** 4th April, 6:00 PM CET/ 10:30 PM IST
+* **Submission deadline:** 4th April, 6:00 PM CET/ 10:30 PM IST.
