@@ -18,7 +18,7 @@
 
 * Now that we know how to build a simple decision tree model on one of the datasets that we used previously.
 * **Objective:** Imagine you were hired as a Data **** Scientist/Analyst by the Central Police Oﬃce of Metropolitan areas and your job is now to create a predictive model for crime\_rate. For now, let’s focus on building a simple decision tree.
-* **Link to the Dataset:** [https://docs.google.com/spreadsheets/d/12C585fc6rZu9c-GbrPIZLKo1nB1ZjSAGuiaR9fxibSY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/12C585fc6rZu9c-GbrPIZLKo1nB1ZjSAGuiaR9fxibSY/edit?usp=sharing)
+* **Link to the Dataset:** [**https://docs.google.com/spreadsheets/d/1rruRHMCALDpWSSzKIHTl9Yello4y-xsWaIL1V8b9dwU/edit?usp=sharing**](https://docs.google.com/spreadsheets/d/1rruRHMCALDpWSSzKIHTl9Yello4y-xsWaIL1V8b9dwU/edit?usp=sharing)****
 * Download the dataset as a CSV file.
 
 ### Hints
