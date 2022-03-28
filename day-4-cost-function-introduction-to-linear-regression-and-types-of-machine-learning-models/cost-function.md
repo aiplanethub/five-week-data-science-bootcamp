@@ -101,7 +101,7 @@ There are three primary metrics used to evaluate linear models (to ﬁnd how wel
 
 * As Data Scientists, we always want to optimise our algorithms and go for the best ones. Gradient Descent is one of those that helps us do this!
 * Gradient Descent is an optimization technique in the machine learning process which minimizes the cost function. Every machine learning algorithm has a cost function.
-* For now, we are not getting too much into how it works. We will learn about it as we proceed.
+* For now, we are not getting too much into how it works. We will learn about it as we proceed. Below is the link to a video for further understanding: [https://www.youtube.com/watch?v=vsWrXfO3wWw](https://www.youtube.com/watch?v=vsWrXfO3wWw)&#x20;
 
 ### Recap
 
