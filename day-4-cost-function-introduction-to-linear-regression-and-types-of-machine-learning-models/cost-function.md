@@ -115,4 +115,3 @@ There are three primary metrics used to evaluate linear models (to ﬁnd how wel
 If you are inquisitive to learn more about gradient descent refer the below video:
 
 * [https://www.youtube.com/watch?v=sDv4f4s2SB8](https://www.youtube.com/watch?v=sDv4f4s2SB8)
-* [https://youtu.be/vsWrXfO3wWw](https://youtu.be/vsWrXfO3wWw)
