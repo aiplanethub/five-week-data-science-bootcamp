@@ -180,7 +180,7 @@ We will be discussing about Multi-Class Logistic Regression in the next module!
 
 **Instruction:**
 
-* Use the raw data github link: [https://raw.githubusercontent.com/dphi-oﬃcial/Datasets/master/HR\_com](https://raw.githubusercontent.com/dphi-official/Datasets/master/HR\_comma\_sep.csv) [ma\_sep.csv](https://raw.githubusercontent.com/dphi-official/Datasets/master/HR\_comma\_sep.csv)
+* Use the raw data github link: [https://raw.githubusercontent.com/dphi-official/Datasets/master/HR\_comma\_sep.csv](https://raw.githubusercontent.com/dphi-official/Datasets/master/HR\_comma\_sep.csv)
 * Or you can download it here from [here](https://www.kaggle.com/giripujar/hr-analytics)
 
 **Exercise:**
