@@ -10,10 +10,9 @@
 
 * Random forest is a ﬂexible, easy to use machine learning algorithm that produces, a great result most of the times even without hyper-parameter tuning.
 * It is also one of the most used algorithms, because of its simplicity and diversity (it **can be used for both classiﬁcation and regression tasks**).
-
-![](broken-reference)
-
 * Random forest **builds multiple decision trees and merges them together** to get a more accurate and stable prediction.
+
+![](https://lh5.googleusercontent.com/bUs0NIKlLZR9mBYLP99T-QblexIzdBwHVUNixiRAdqp2cryzR-5cZexBHd8feH5Q9szEwjNnPaLTR-vOxOoTtv2\_7ptRVoMPDHSs0qmH\_6noMN0\_ZpB7T1wxS0nKwdbFqeeIEjZoU7U)
 
 ### Applications
 
@@ -26,9 +25,6 @@
 
 * Andrew wants to decide where to go during one-year vacation, so he asks the people who know him best for suggestions. The ﬁrst friend he seeks out asks him about the likes and dislikes of his past travels. Based on the answers, he will give Andrew some advice.
 * This is a typical decision tree algorithm approach. Andrew's friend created rules to guide his decision about what he should recommend, by using Andrew's answers.
-
-![](broken-reference)
-
 * Afterwards, Andrew starts asking more and more of his friends to advise him and they again ask him diﬀerent questions they can use to derive some recommendations for him. Finally, Andrew chooses the places that are recommend the most to him, which is the typical random forest algorithm approach.
 
 ### Ensemble Models - "The wisdom of crowds"
@@ -49,13 +45,20 @@
 * The max voting method is generally used for classiﬁcation problems. In this technique, multiple models are used to make predictions for each data point. The predictions by each model are considered as a ‘vote’. The predictions which we get from the majority of the models are used as the ﬁnal prediction.
 * For example, when you asked 5 of your colleagues to rate your movie (out of 5); we’ll assume three of them rated 4 while two of them gave a 5. Since the majority gave a rating of 4, the ﬁnal rating will be taken as 4. You can consider this as taking the mode of all the predictions.
 
+### Max Voting
+
+* The max voting method is generally used for classification problems. In this technique, multiple models are used to make predictions for each data point. The predictions by each model are considered as a ‘vote’. The predictions which we get from the majority of the models are used as the final prediction.
+* For example, when you asked 5 of your colleagues to rate your movie (out of 5); we’ll assume three of them rated 4 while two of them gave a 5. Since the majority gave a rating of 4, the final rating will be taken as 4. You can consider this as taking the mode of all the predictions.
+
+![](https://lh4.googleusercontent.com/5OEO-\_x-\_EBIAdS5FbgitlFo7abhtNEwHjRwoCYd9A2Hcd13doxl8-iexi81d-1\_qo6IcbIONjrvvOG\_7NzRaNYGYsLtzs0\_d0c0tjYvFxbsDRevDzOQqh\_iv3uXtILhJRhwXxfEyRg)
+
 ### Averaging
 
 * In this technique, we take an average of predictions from all the models and use it to make the ﬁnal prediction.
 * Averaging can be used for making predictions in regression problems or while calculating probabilities for classiﬁcation problems.
 * For example, in the below case, the averaging method would take the average of all the values. i.e. (5+4+5+4+4)/5 = 4.4
 
-![](broken-reference)
+![](https://lh4.googleusercontent.com/MyYsJlfb7tiiKWGv10c2K6VvjUpeqdBtXpSaOvUHK2d5BgwkwLtO534NCLw-NURomH2eNGu3rVW7a4TcQoiyRN8mEOwja3hHHk7ad6skDrt6OQf6KBbnQGkwKz9ndRgesFXiRG9vTus)
 
 ### Weighted Average
 
@@ -63,7 +66,7 @@
 * For instance, if two of your colleagues are critics, while others have no prior experience in this ﬁeld, then the answers by these two friends are given more importance as compared to the other people.
 * The result is calculated as \[(5\*0.23) + (4\*0.23) + (5\*0.18) + (4\*0.18) + (4\*0.18)] = 4.41.
 
-![](broken-reference)
+![](https://lh6.googleusercontent.com/5pzdbsZqVmQVfaasu67a4oXKipqo6Bsh6SHlKENyXM\_XIF-KdOeWu0s1agIMOhmZmDPop2GkjlGcminl1xzh-2pKeiMdRIiuoPL3qYLjTajcx3mjRdEqwMnsL2C5KGTyKWOEg4tAJuc)
 
 ### Advanced Ensemble Techniques
 
