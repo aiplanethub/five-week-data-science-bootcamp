@@ -127,9 +127,9 @@ Precision = **TP/(TP+FP)** = 100/110 = 0.91
 
 ### Case 1: Higher Speciﬁcity
 
-* Suppose we want to predict Class 1 (Ci.e patient has cancer) only if we are VERY conﬁdent. (To avoid giving the patient a shock and to avoid unnecessary treatment)
+* Suppose we want to predict Class 1 (i.e patient has cancer) only if we are VERY conﬁdent. (To avoid giving the patient a shock and to avoid unnecessary treatment)
 * We can instead change this threshold to 0.7. Thus, we’ll tell someone they have cancer only if we think they have greater than or equal to 70% chance of having a cancer.
-* Look at the graph below. SInce the threshold has shifted to the right, so the number of people correctly guessed as having cancer have increased. Thus, the speciﬁcity has increased. ( We are being very speciﬁc with declaring patients with cancer).
+* Look at the graph below. SInce the threshold has shifted to the right, so the number of people correctly guessed as having cancer have decreased. Thus, the speciﬁcity has increased. ( We are being very speciﬁc with declaring patients with cancer).
 
 ![](https://lh4.googleusercontent.com/cfHCXYNLaUZtdy8swcALQXBmLCgHwrsko3tEJE9fiwTdfxH0Uocpj2JFANpLeKrg9FzhrF1TIe7mIqQR8dehU9D1rzHZzVQJk-uENgdvdhGeaBTlA45M0jMc\_5P5o6Zk9kNv2nF-hcY)
 
