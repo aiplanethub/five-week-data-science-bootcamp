@@ -16,6 +16,8 @@ In short, Feature Importance Scores are used for performing Feature Selection
 
 Suppose we’re working on the Iris Classiﬁcation. We’ll ﬁrst create a baseline model using Logistic Regression. Now, we want to try out Feature Selection and try to improve our model’s performance. On plotting feature importance scores, we obtain the below graph:
 
+![](https://lh6.googleusercontent.com/BDzc2DcjKUL7pgrvLEasnEFN84Uv87r2rNUhLkbi8nMKenvmqrRa-SXMwCDWN2HIxh4FSC3lnLfE51AApyp8HmWguetQY2gEMKWrrKADBLmy2lO3Jnj0ogFGau0kwCctiOQIvEtO3wI)
+
 * Feature Importance Scores tell us that Petal width and height are the the top 2 features. The rest have a much lower importance score.
 * We’ll select these 2 features.
 * We’ll transform our existing dataset to contain only these 2 features.
