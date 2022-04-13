@@ -71,8 +71,4 @@ There are many more techniques but the above ones are popular and widely used in
 
 ### **Notebook link:**
 
-* [https://dphi.tech/notebooks/896/manish\_kc\_06/feature\_selecti](https://dphi.tech/notebooks/896/manish\_kc\_06/feature\_selection\_techniques) [on\_techniques?](https://dphi.tech/notebooks/896/manish\_kc\_06/feature\_selection\_techniques)
-
-### How to download?
-
-* Go here: [https://github.com/dphi-oﬃcial/ML\_Models ](https://github.com/dphi-official/ML\_Models)and click clone and “Download Zip” ﬁle. Extract the zip ﬁle and access notebook inside “Feature\_Section” folder.
+* [https://dphi.tech/notebooks/896/manish\_kc\_06/feature\_selection\_techniques](https://dphi.tech/notebooks/896/manish\_kc\_06/feature\_selection\_techniques)
